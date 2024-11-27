@@ -5,12 +5,12 @@ import { getFirestore, collection, getDocs } from "https://www.gstatic.com/fireb
 
 // Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyD7UICUX8gs2ZA8z7Xcc0hmv7zzgMWmogE",
-    authDomain: "travel-tour-e2571.firebaseapp.com",
-    projectId: "travel-tour-e2571",
-    storageBucket: "travel-tour-e2571.firebasestorage.app",
-    messagingSenderId: "565419208611",
-    appId: "1:565419208611:web:585a5103264d8c950a7416"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
